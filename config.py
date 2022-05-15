@@ -2,12 +2,10 @@ import os
 
 #from dotenv import load_dotenv
 
-"from dotenv import load_dotenv
-
 class DefaultConfig:
      """Configuration for the bot."""
 
-    "load_dotenv()
+    #load_dotenv()
     PORT = 3978
     APP_ID = "a477203b-cbe8-42cb-818b-4f770713d3d6"
     APP_PASSWORD = "2nl8Q~k.StUr6UBOFbHBnCfBAtr9ETt3UPoXoa3f"
